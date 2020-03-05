@@ -1,3 +1,14 @@
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+}
 .img-thumbnail{
     width: 370px;
+}
+
+.card {
+    width: 19rem;
+}
+
+.card-header {
+    font-style: bold;
 }
